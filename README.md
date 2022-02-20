@@ -24,3 +24,6 @@
 
 ## select
 - `ggVG`	: select all
+
+## replace all
+- `:%s/oldWorld/newWorld/g`
