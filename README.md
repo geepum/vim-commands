@@ -13,7 +13,7 @@
 - `^`		: beginning of code in the line
 - `$`		: end of the line
 - `w`		: next word
-- 'b'		: previous word
+- `b`		: previous word
 
 ## copy, cut and paste
 - `dw`		: cut from cursor to end of word
