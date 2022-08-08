@@ -51,3 +51,5 @@
 - `CTRL + b`		: go backward one display at a time
 - `CTRL + d`		: go forward half display at a time
 - `CTRL + u`		: go backward half display at a time
+- `v`			: select character
+- `V`			: select line
