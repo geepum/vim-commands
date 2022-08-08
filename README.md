@@ -14,11 +14,17 @@
 - `$`		: end of the line
 - `w`		: next word
 - `b`		: previous word
+- `ctrl+f`	: next page
+- `ctrl+b`	: previous page
 
 ## copy, cut and paste
 - `dw`		: cut from cursor to end of word
 - `diw`		: cut the whole word
 - `dd`		: cut the whole line
+- `3dd`		: cut 3 lines
+- `yy`		: copy line
+- `3yy`		: copy 3 lines
+- `p`		: paste
 - `gp`		: paste after the cursor
 - `gP`		: paste before the cursor
 
@@ -27,3 +33,21 @@
 
 ## replace all
 - `:%s/oldWorld/newWorld/g`
+
+## Others
+
+- `:set mouse=a`	: enable mouse
+- `?bin`		: find word bin => `N` to forward find `n` to backward find
+- `H`			: high of display
+- `M`			: mid of display
+- `L`			: low of display
+- `x`			: delete
+- `X`			: backspace
+- `u`			: undo
+- `CTRL + r`		: redo
+- `set nu`		: set numbers on left
+- `set nonu`		: remove set numbers
+- `CTRL + f`		: go forward one display at a time
+- `CTRL + b`		: go backward one display at a time
+- `CTRL + d`		: go forward half display at a time
+- `CTRL + u`		: go backward half display at a time
