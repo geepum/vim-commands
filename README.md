@@ -16,6 +16,8 @@
 - `b`		: previous word
 - `ctrl+f`	: next page
 - `ctrl+b`	: previous page
+- `CTRL + d`		: go forward half display at a time
+- `CTRL + u`		: go backward half display at a time
 
 ## copy, cut and paste
 - `dw`		: cut from cursor to end of word
@@ -47,9 +49,5 @@
 - `CTRL + r`		: redo
 - `set nu`		: set numbers on left
 - `set nonu`		: remove set numbers
-- `CTRL + f`		: go forward one display at a time
-- `CTRL + b`		: go backward one display at a time
-- `CTRL + d`		: go forward half display at a time
-- `CTRL + u`		: go backward half display at a time
 - `v`			: select character
 - `V`			: select line
