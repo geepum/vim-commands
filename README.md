@@ -26,6 +26,7 @@
 - `dd`		: cut the whole line
 - `3dd`		: cut 3 lines
 - `yy`		: copy line
+- `y$`		: copy from cursor to end of line
 - `3yy`		: copy 3 lines
 - `p`		: paste
 - `gp`		: paste after the cursor
