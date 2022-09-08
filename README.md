@@ -21,6 +21,7 @@
 
 ## copy, cut and paste
 - `dw`		: cut from cursor to end of word
+- `d$` or `D`	: cut from cursor to end of line
 - `diw`		: cut the whole word
 - `dd`		: cut the whole line
 - `3dd`		: cut 3 lines
