@@ -18,6 +18,7 @@
 - `ctrl+b`	: previous page
 - `CTRL + d`		: go forward half display at a time
 - `CTRL + u`		: go backward half display at a time
+- `number + G`	: move to line number
 
 ## copy, cut and paste
 - `dw`		: cut from cursor to end of word
